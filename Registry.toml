@@ -1,0 +1,6 @@
+name = "DyadCommunityRegistry"
+uuid = "6b89d7c0-51a9-4e04-8883-3c89c4a310e3"
+repo = "https://github.com/DyadLang/DyadCommunityRegistry"
+description = "An open community registry for Dyad-related packages"
+
+[packages]
