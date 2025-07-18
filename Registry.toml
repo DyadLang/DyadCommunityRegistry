@@ -4,3 +4,4 @@ repo = "https://github.com/DyadLang/DyadCommunityRegistry"
 description = "An open community registry for Dyad-related packages"
 
 [packages]
+8c5872ae-171c-4c52-b73c-5e25d4616bb7 = { name = "SpacePowerWorkshop", path = "S/SpacePowerWorkshop" }
